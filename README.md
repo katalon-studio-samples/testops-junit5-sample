@@ -1,4 +1,4 @@
-# TestOps Junit4
+# TestOps Junit5
 https://github.com/katalon-studio/testops-junit5
 
 # Run test
