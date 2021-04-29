@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.katalon</groupId>
             <artifactId>testops-junit5</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.0-meta</version>
             <scope>test</scope>
         </dependency>
         <dependency>
